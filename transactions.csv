@@ -1,1 +1,1 @@
-
+"Date","InvoiceNo","TransactionType","Product","ProductCode","Quantity","Weight_g","Karat","IntlGoldPrice","GoldRate","TotalAmount","Discount","FinalAmount","PaymentMethod","PaymentDetails","CustomerName","CustomerPhone","CustomerID","InventoryChange","Cost","Profit","Notes","Status"
